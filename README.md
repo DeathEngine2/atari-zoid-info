@@ -1,2 +1,1 @@
-# atari-zoid-info
-Attempt to categorize all known information on Atari Games' prototype ZOID hardware.
+# ZOID hardware documentation and chronology (more to come)
